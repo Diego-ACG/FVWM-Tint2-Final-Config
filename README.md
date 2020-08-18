@@ -1,0 +1,1 @@
+# FVWM-Tint2-Final-Config
